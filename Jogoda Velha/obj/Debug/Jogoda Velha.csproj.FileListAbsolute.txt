@@ -1,0 +1,11 @@
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\bin\Debug\Jogoda Velha.exe.config
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\bin\Debug\Jogoda Velha.exe
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\bin\Debug\Jogoda Velha.pdb
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\obj\Debug\Jogoda Velha.csproj.AssemblyReference.cache
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\obj\Debug\Jogoda Velha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\obj\Debug\Jogoda_Velha.Form1.resources
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\obj\Debug\Jogoda_Velha.Properties.Resources.resources
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\obj\Debug\Jogoda Velha.csproj.GenerateResource.cache
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\obj\Debug\Jogoda Velha.csproj.CoreCompileInputs.cache
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\obj\Debug\Jogoda Velha.exe
+C:\Users\Walter\Documents\LogP - Visual Studio\Jogoda Velha\Jogoda Velha\obj\Debug\Jogoda Velha.pdb
